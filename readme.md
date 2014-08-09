@@ -23,3 +23,7 @@ This is an example of 3 fictional re-zoning applications published using the LUC
 **LUCD example.xml**
 
 This is an example of 3 fictional re-zoning applications published using the LUCD schema in the **XML** data format. *This file is not yet available, but should be soon*.
+
+**readme.md**
+
+This file.
