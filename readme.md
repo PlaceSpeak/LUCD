@@ -4,7 +4,7 @@ The **LUCD standard** (optionally pronounced "lucid") is a proposed open standar
 
 For more information visit https://sites.google.com/site/lucdstandard.
 
-If you have opinions about the standard please [submit an issue](https://github.com/PlaceSpeak/LUCD/issues) here.
+If you have opinions about the standard please [submit an issue](https://github.com/PlaceSpeak/LUCD/issues) here, or get in touch at <hugh@placespeak.com>.
 
 ## What's here
 
