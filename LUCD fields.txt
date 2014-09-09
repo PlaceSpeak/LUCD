@@ -23,8 +23,8 @@ application *
 - - - geo object * (OGC simple feature acceptable)
 - - [optional additional geos]
 - applicant
-- - name
-- - email
+- - applicant contact name
+- - applicant organization
 - - phone
 - - address
 - - - street 1
