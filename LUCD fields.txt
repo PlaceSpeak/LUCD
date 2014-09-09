@@ -35,6 +35,7 @@ application *
 - - - postal/zip
 - municipal contact *
 - - name
+- - title
 - - email *
 - - phone
 - - address
