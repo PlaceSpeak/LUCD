@@ -58,8 +58,8 @@ application *
 - - [optional additional public meetings]
 - documents
 - - document
-- - - name
-- - - format
-- - - abstract
-- - - URL
+- - - document name
+- - - document format
+- - - document abstract
+- - - document URL
 - - [optional additional documents]
