@@ -1,48 +1,48 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE LUCD SYSTEM “LUCD.dtd”>
+<!DOCTYPE LUCD SYSTEM "LUCD.dtd">
 <application>
-	<id>DE413541</id>
-	<short_name>Rezoning and Development Permit Application - 963 East 19th Avenue (960 Kingsway)</short_name>
-	<abstract>
+    <id>DE413541</id>
+    <short_name>Rezoning and Development Permit Application - 963 East 19th Avenue (960 Kingsway)</short_name>
+    <abstract>
 Matthew Cheng Architects Inc. has submitted a revised application to the City of Vancouver to rezone 963 East 19th Avenue (960 Kingsway) from C-2 (Commercial) District to CD-1 (Comprehensive Development) District. The proposal includes a 6-storey mixed-use building consisting of commercial/retail space on the ground floor and 39 rental residential units on floors 2 to 6.
-	</abstract>
-	<url>http://former.vancouver.ca/commsvcs/planning/rezoning/applications/963e19th/index.htm</url>
-	<addresses>
-		<address>
-			<street_1>963 East 19th Avenue</street_1>
-			<city>Vancouver</city>
-	    	<province_state>British Columbia</province_state>
-	    	<country>Canada</country>
-        	<code>V5V3C4</code>
-		</address>
-		<address>
-			<street_1>960 Kingsway</street_1>
-			<street_2></street_2>
-			<street_3></street_3>
-			<city>Vancouver</city>
-	    	<province_state>British Columbia</province_state>
-	    	<country>Canada</country>
-        	<code>V5V3C4</code>
-		</address>
-	</addresses>
+    </abstract>
+    <url>http://former.vancouver.ca/commsvcs/planning/rezoning/applications/963e19th/index.htm</url>
+    <addresses>
+        <address>
+            <street_1>963 East 19th Avenue</street_1>
+            <city>Vancouver</city>
+            <province_state>British Columbia</province_state>
+            <country>Canada</country>
+            <code>V5V3C4</code>
+        </address>
+        <address>
+            <street_1>960 Kingsway</street_1>
+            <street_2></street_2>
+            <street_3></street_3>
+            <city>Vancouver</city>
+            <province_state>British Columbia</province_state>
+            <country>Canada</country>
+            <code>V5V3C4</code>
+        </address>
+    </addresses>
     <applicant>
-    	<applicant_contact_name>Chloe Hahn</applicant_contact_name>
-    	<applicant_organization>Matthew Cheng Architects Inc</applicant_organization>
-    	<applicant_phone>604.731.3012</applicant_phone>
+        <applicant_contact_name>Chloe Hahn</applicant_contact_name>
+        <applicant_organization>Matthew Cheng Architects Inc</applicant_organization>
+        <applicant_phone>604.731.3012</applicant_phone>
     </applicant>
     <municipal_contacts>
-	    <municipal_contact>
-	    	<municipal_contact_name>Grant Miller</municipal_contact_name>
-	    	<municipal_contact_title>Rezoning Planner</municipal_contact_title>
-	    	<municipal_contact_email>grant.miller@vancouver.ca</municipal_contact_email>
-	    	<municipal_contact_phone>604.873.7484</municipal_contact_phone>
-	    </municipal_contact>
-	    <municipal_contact>
-	    	<municipal_contact_name>Cynthia Lau</municipal_contact_name>
-	    	<municipal_contact_title>Project Facilitator</municipal_contact_title>
-	    	<municipal_contact_email>cynthia.lau@vancouver.ca</municipal_contact_email>
-	    	<municipal_contact_phone>604.871.6796</municipal_contact_phone>
-	    </municipal_contact>  
+        <municipal_contact>
+            <municipal_contact_name>Grant Miller</municipal_contact_name>
+            <municipal_contact_title>Rezoning Planner</municipal_contact_title>
+            <municipal_contact_email>grant.miller@vancouver.ca</municipal_contact_email>
+            <municipal_contact_phone>604.873.7484</municipal_contact_phone>
+        </municipal_contact>
+        <municipal_contact>
+            <municipal_contact_name>Cynthia Lau</municipal_contact_name>
+            <municipal_contact_title>Project Facilitator</municipal_contact_title>
+            <municipal_contact_email>cynthia.lau@vancouver.ca</municipal_contact_email>
+            <municipal_contact_phone>604.871.6796</municipal_contact_phone>
+        </municipal_contact>  
     </municipal_contacts>
     <description>
 Matthew Cheng Architects Inc. has submitted a revised application to the City of Vancouver to rezone 963 East 19th Avenue (960 Kingsway) from C-2 (Commercial) District to CD-1 (Comprehensive Development) District. The proposal includes a 6-storey mixed-use building consisting of commercial/retail space on the ground floor and 39 rental residential units on floors 2 to 6. A maximum floor space ratio (FSR) of 3.39 and a maximum height of 18.4 m (60.53 ft.) are proposed. A total of 31 parking stalls and one loading space would be provided.
@@ -53,20 +53,20 @@ Changes from the previous submission (dated December 17, 2009) include:
 - a reduced number of units, from 40 to 39
 
 The rezoning application is being considered under the Short Term Incentives for Rental (STIR) Program approved by City Council on June 18, 2009. This program responds to low vacancy rates and the lack of new purpose-built rental housing by providing a strategic set of City incentives to encourage and facilitate the development of new market rental housing. The program ended on December 15, 2011, and all applications received prior to the deadline will be processed through the City’s standard development processes. 
-    </decsription>
+    </description>
     <statuses>
-    	<status>
-    		<status_name>Approved</status_name>
-    		<status_date>2014-03-11</status_date>
-    	</status>
-    	<status>
-    		<status_name>Re-submitted</status_name>
-    		<status_date>2010-07-05</status_date>
-    	</status>
-    	<status>
-    		<status_name>Submitted</status_name>
-    		<status_date>2009-12-17</status_date>
-    	</status>
+        <status>
+            <status_name>Approved</status_name>
+            <status_date>2014-03-11</status_date>
+        </status>
+        <status>
+            <status_name>Re-submitted</status_name>
+            <status_date>2010-07-05</status_date>
+        </status>
+        <status>
+            <status_name>Submitted</status_name>
+            <status_date>2009-12-17</status_date>
+        </status>
     </statuses>
     <public_meetings>
         <public_meeting>
@@ -95,61 +95,61 @@ The rezoning application is being considered under the Short Term Incentives for
         </public_meeting>
     </public_meetings>
     <documents>
-    	<document>
-    		<document_name>Notice of Public Hearing</document_name>
-    		<document_url>http://former.vancouver.ca/commsvcs/planning/rezoning/applications/963e19th/documents/PH_postcard.pdf</document_url>
-    	</document>
-    	<document>
-    		<document_name>Notice of Revised Rezoning Application and Invitation to Community Open House</document_name>
-    		<document_url>http://former.vancouver.ca/commsvcs/planning/rezoning/applications/963e19th/documents/notificationOHApr13.pdf</document_url>
-    	</document>
-    	<document>
-    		<document_name>Notice of Rezoning and Development Permit Application</document_name>
-    		<document_url>http://former.vancouver.ca/commsvcs/planning/rezoning/applications/963e19th/documents/postcard.pdf</document_url>
-    	</document>
-    	<document>
-    		<document_name>Project Statistics</document_name>
-    		<document_url>http://former.vancouver.ca/commsvcs/planning/rezoning/applications/963e19th/documents/Statistics_Jul2010.pdf</document_url>
-    	</document>
-    	<document>
-    		<document_name>Context Plan</document_name>
-    		<document_url>http://former.vancouver.ca/commsvcs/planning/rezoning/applications/963e19th/documents/ContextPlan_Jul2010.pdf</document_url>
-    	</document>
-    	<document>
-    		<document_name>Streetscape Drawings</document_name>
-    		<document_url>http://former.vancouver.ca/commsvcs/planning/rezoning/applications/963e19th/documents/Streetscape_Jul2010.pdf</document_url>
-    	</document>
-    	<document>
-    		<document_name>Shadow Studies</document_name>
-    		<document_url>http://former.vancouver.ca/commsvcs/planning/rezoning/applications/963e19th/documents/ShadowStudies_Jul2010.pdf</document_url>
-    	</document>
-    	<document>
-    		<document_name>Parking Plans</document_name>
-    		<document_url>http://former.vancouver.ca/commsvcs/planning/rezoning/applications/963e19th/documents/Parking_Jul2010.pdf</document_url>
-    	</document>
-    	<document>
-    		<document_name>Floor and Roof Plans</document_name>
-    		<document_url>http://former.vancouver.ca/commsvcs/planning/rezoning/applications/963e19th/documents/FloorRoofPlans_Jul2010.pdf</document_url>
-    	</document>
-    	<document>
-    		<document_name>Building Elevations</document_name>
-    		<document_url>http://former.vancouver.ca/commsvcs/planning/rezoning/applications/963e19th/documents/BuildingElevations_Jul2010.pdf</document_url>
-    	</document>
-    	<document>
-    		<document_name>Building Sections</document_name>
-    		<document_url>http://former.vancouver.ca/commsvcs/planning/rezoning/applications/963e19th/documents/BuildingSections_Jul2010.pdf</document_url>
-    	</document>
-    	<document>
-    		<document_name>C-2 District Schedule</document_name>
-    		<document_url>http://former.vancouver.ca/commsvcs/BYLAWS/zoning/c-2.pdf</document_url>
-    	</document>
-    	<document>
-    		<document_name>Kensington-Cedar Cottage Community Visions Program</document_name>
-    		<document_url>http://former.vancouver.ca/commsvcs/planning/cityplan/Visions/kcc/index.htm</document_url>
-    	</document>
-    	<document>
-    		<document_name>Short Term Incentives for Rental (STIR)</document_name>
-    		<document_url>http://former.vancouver.ca/commsvcs/developmentservices/stir/</document_url>
-    	</document>
+        <document>
+            <document_name>Notice of Public Hearing</document_name>
+            <document_url>http://former.vancouver.ca/commsvcs/planning/rezoning/applications/963e19th/documents/PH_postcard.pdf</document_url>
+        </document>
+        <document>
+            <document_name>Notice of Revised Rezoning Application and Invitation to Community Open House</document_name>
+            <document_url>http://former.vancouver.ca/commsvcs/planning/rezoning/applications/963e19th/documents/notificationOHApr13.pdf</document_url>
+        </document>
+        <document>
+            <document_name>Notice of Rezoning and Development Permit Application</document_name>
+            <document_url>http://former.vancouver.ca/commsvcs/planning/rezoning/applications/963e19th/documents/postcard.pdf</document_url>
+        </document>
+        <document>
+            <document_name>Project Statistics</document_name>
+            <document_url>http://former.vancouver.ca/commsvcs/planning/rezoning/applications/963e19th/documents/Statistics_Jul2010.pdf</document_url>
+        </document>
+        <document>
+            <document_name>Context Plan</document_name>
+            <document_url>http://former.vancouver.ca/commsvcs/planning/rezoning/applications/963e19th/documents/ContextPlan_Jul2010.pdf</document_url>
+        </document>
+        <document>
+            <document_name>Streetscape Drawings</document_name>
+            <document_url>http://former.vancouver.ca/commsvcs/planning/rezoning/applications/963e19th/documents/Streetscape_Jul2010.pdf</document_url>
+        </document>
+        <document>
+            <document_name>Shadow Studies</document_name>
+            <document_url>http://former.vancouver.ca/commsvcs/planning/rezoning/applications/963e19th/documents/ShadowStudies_Jul2010.pdf</document_url>
+        </document>
+        <document>
+            <document_name>Parking Plans</document_name>
+            <document_url>http://former.vancouver.ca/commsvcs/planning/rezoning/applications/963e19th/documents/Parking_Jul2010.pdf</document_url>
+        </document>
+        <document>
+            <document_name>Floor and Roof Plans</document_name>
+            <document_url>http://former.vancouver.ca/commsvcs/planning/rezoning/applications/963e19th/documents/FloorRoofPlans_Jul2010.pdf</document_url>
+        </document>
+        <document>
+            <document_name>Building Elevations</document_name>
+            <document_url>http://former.vancouver.ca/commsvcs/planning/rezoning/applications/963e19th/documents/BuildingElevations_Jul2010.pdf</document_url>
+        </document>
+        <document>
+            <document_name>Building Sections</document_name>
+            <document_url>http://former.vancouver.ca/commsvcs/planning/rezoning/applications/963e19th/documents/BuildingSections_Jul2010.pdf</document_url>
+        </document>
+        <document>
+            <document_name>C-2 District Schedule</document_name>
+            <document_url>http://former.vancouver.ca/commsvcs/BYLAWS/zoning/c-2.pdf</document_url>
+        </document>
+        <document>
+            <document_name>Kensington-Cedar Cottage Community Visions Program</document_name>
+            <document_url>http://former.vancouver.ca/commsvcs/planning/cityplan/Visions/kcc/index.htm</document_url>
+        </document>
+        <document>
+            <document_name>Short Term Incentives for Rental (STIR)</document_name>
+            <document_url>http://former.vancouver.ca/commsvcs/developmentservices/stir/</document_url>
+        </document>
     </documents>
 </application>
