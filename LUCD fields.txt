@@ -34,8 +34,8 @@ application *
 - - - province/state
 - - - postal/zip
 - municipal contacts * (at least one municipal contact required)
-- - municipal contact
-- - - municipal contactname
+- - municipal contact *
+- - - municipal contact name
 - - - municipal contact title
 - - - municipal contact email *
 - - - municipal contact phone
