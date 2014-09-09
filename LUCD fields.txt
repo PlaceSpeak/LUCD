@@ -61,7 +61,6 @@ application *
 - documents
 - - document
 - - - document name
-- - - document format
 - - - document abstract
 - - - document URL
 - - [optional additional documents]
