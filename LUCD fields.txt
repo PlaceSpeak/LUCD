@@ -54,7 +54,6 @@ application *
 - - public meeting
 - - - date
 - - - location
-- - - name
 - - - description
 - - [optional additional public meetings]
 - documents
