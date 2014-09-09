@@ -1,0 +1,152 @@
+{
+  "application": {
+    "id": "DE413541",
+    "short_name": "Rezoning and Development Permit Application - 963 East 19th Avenue (960 Kingsway)",
+    "abstract": "Matthew Cheng Architects Inc. has submitted a revised application to the City of Vancouver to rezone 963 East 19th Avenue (960 Kingsway) from C-2 (Commercial) District to CD-1 (Comprehensive Development) District. The proposal includes a 6-storey mixed-use building consisting of commercial/retail space on the ground floor and 39 rental residential units on floors 2 to 6.",
+    "url": "http://former.vancouver.ca/commsvcs/planning/rezoning/applications/963e19th/index.htm",
+    "addresses": {
+      "address": [
+        {
+          "street_1": "963 East 19th Avenue",
+          "city": "Vancouver",
+          "province_state": "British Columbia",
+          "country": "Canada",
+          "code": "V5V3C4"
+        },
+        {
+          "street_1": "960 Kingsway",
+          "city": "Vancouver",
+          "province_state": "British Columbia",
+          "country": "Canada",
+          "code": "V5V3C4"
+        }
+      ]
+    },
+    "applicant": {
+      "applicant_contact_name": "Chloe Hahn",
+      "applicant_organization": "Matthew Cheng Architects Inc",
+      "applicant_phone": "604.731.3012"
+    },
+    "municipal_contacts": {
+      "municipal_contact": [
+        {
+          "municipal_contact_name": "Grant Miller",
+          "municipal_contact_title": "Rezoning Planner",
+          "municipal_contact_email": "grant.miller@vancouver.ca",
+          "municipal_contact_phone": "604.873.7484"
+        },
+        {
+          "municipal_contact_name": "Cynthia Lau",
+          "municipal_contact_title": "Project Facilitator",
+          "municipal_contact_email": "cynthia.lau@vancouver.ca",
+          "municipal_contact_phone": "604.871.6796"
+        }
+      ]
+    },
+    "description": "Matthew Cheng Architects Inc. has submitted a revised application to the City of Vancouver to rezone 963 East 19th Avenue (960 Kingsway) from C-2 (Commercial) District to CD-1 (Comprehensive Development) District. The proposal includes a 6-storey mixed-use building consisting of commercial/retail space on the ground floor and 39 rental residential units on floors 2 to 6. A maximum floor space ratio (FSR) of 3.39 and a maximum height of 18.4 m (60.53 ft.) are proposed. A total of 31 parking stalls and one loading space would be provided.\nChanges from the previous submission (dated December 17, 2009) include:\n- an increased floor space ratio (FSR), from 3.36 to 3.39\n- a reduced number of units, from 40 to 39\nThe rezoning application is being considered under the Short Term Incentives for Rental (STIR) Program approved by City Council on June 18, 2009. This program responds to low vacancy rates and the lack of new purpose-built rental housing by providing a strategic set of City incentives to encourage and facilitate the development of new market rental housing. The program ended on December 15, 2011, and all applications received prior to the deadline will be processed through the City’s standard development processes.",
+    "statuses": {
+      "status": [
+        {
+          "status_name": "Approved",
+          "status_date": "2014-03-11"
+        },
+        {
+          "status_name": "Re-submitted",
+          "status_date": "2010-07-05"
+        },
+        {
+          "status_name": "Submitted",
+          "status_date": "2009-12-17"
+        }
+      ]
+    },
+    "public_meetings": {
+      "public_meeting": [
+        {
+          "public_meeting_name": "Regular Council Meeting",
+          "public_meeting_date": "2014-01-21",
+          "public_meeting_url": "http://former.vancouver.ca/ctyclerk/cclerk/20140121/regu20140121ag.htm"
+        },
+        {
+          "public_meeting_name": "Public Hearing",
+          "public_meeting_date": "2014-02-18",
+          "public_meeting_url": "http://former.vancouver.ca/ctyclerk/cclerk/20140218/phea20140218ag.htm"
+        },
+        {
+          "public_meeting_name": "Regular Council Meeting",
+          "public_meeting_date": "2014-03-11",
+          "public_meeting_url": "http://former.vancouver.ca/ctyclerk/cclerk/20140311/regu20140311ag.htm"
+        },
+        {
+          "public_meeting_name": "Urban Design Panel",
+          "public_meeting_date": "2010-07-14",
+          "public_meeting_url": "http://former.vancouver.ca/commsvcs/planning/udp/2010/Minutes/Jul14.html#1"
+        },
+        {
+          "public_meeting_name": "Community Open House",
+          "public_meeting_date": "2013-0-14"
+        }
+      ]
+    },
+    "documents": {
+      "document": [
+        {
+          "document_name": "Notice of Public Hearing",
+          "document_url": "http://former.vancouver.ca/commsvcs/planning/rezoning/applications/963e19th/documents/PH_postcard.pdf"
+        },
+        {
+          "document_name": "Notice of Revised Rezoning Application and Invitation to Community Open House",
+          "document_url": "http://former.vancouver.ca/commsvcs/planning/rezoning/applications/963e19th/documents/notificationOHApr13.pdf"
+        },
+        {
+          "document_name": "Notice of Rezoning and Development Permit Application",
+          "document_url": "http://former.vancouver.ca/commsvcs/planning/rezoning/applications/963e19th/documents/postcard.pdf"
+        },
+        {
+          "document_name": "Project Statistics",
+          "document_url": "http://former.vancouver.ca/commsvcs/planning/rezoning/applications/963e19th/documents/Statistics_Jul2010.pdf"
+        },
+        {
+          "document_name": "Context Plan",
+          "document_url": "http://former.vancouver.ca/commsvcs/planning/rezoning/applications/963e19th/documents/ContextPlan_Jul2010.pdf"
+        },
+        {
+          "document_name": "Streetscape Drawings",
+          "document_url": "http://former.vancouver.ca/commsvcs/planning/rezoning/applications/963e19th/documents/Streetscape_Jul2010.pdf"
+        },
+        {
+          "document_name": "Shadow Studies",
+          "document_url": "http://former.vancouver.ca/commsvcs/planning/rezoning/applications/963e19th/documents/ShadowStudies_Jul2010.pdf"
+        },
+        {
+          "document_name": "Parking Plans",
+          "document_url": "http://former.vancouver.ca/commsvcs/planning/rezoning/applications/963e19th/documents/Parking_Jul2010.pdf"
+        },
+        {
+          "document_name": "Floor and Roof Plans",
+          "document_url": "http://former.vancouver.ca/commsvcs/planning/rezoning/applications/963e19th/documents/FloorRoofPlans_Jul2010.pdf"
+        },
+        {
+          "document_name": "Building Elevations",
+          "document_url": "http://former.vancouver.ca/commsvcs/planning/rezoning/applications/963e19th/documents/BuildingElevations_Jul2010.pdf"
+        },
+        {
+          "document_name": "Building Sections",
+          "document_url": "http://former.vancouver.ca/commsvcs/planning/rezoning/applications/963e19th/documents/BuildingSections_Jul2010.pdf"
+        },
+        {
+          "document_name": "C-2 District Schedule",
+          "document_url": "http://former.vancouver.ca/commsvcs/BYLAWS/zoning/c-2.pdf"
+        },
+        {
+          "document_name": "Kensington-Cedar Cottage Community Visions Program",
+          "document_url": "http://former.vancouver.ca/commsvcs/planning/cityplan/Visions/kcc/index.htm"
+        },
+        {
+          "document_name": "Short Term Incentives for Rental (STIR)",
+          "document_url": "http://former.vancouver.ca/commsvcs/developmentservices/stir/"
+        }
+      ]
+    }
+  }
+}
