@@ -56,7 +56,14 @@ application *
 - - public meeting
 - - - date
 - - - location
+- - - - street 1
+- - - - street 2
+- - - - street 3
+- - - - city
+- - - - province/state
+- - - - postal/zip
 - - - description
+- - - URL
 - - [optional additional public meetings]
 - documents
 - - document
