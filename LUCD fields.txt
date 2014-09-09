@@ -5,7 +5,8 @@ In cases where multiple instances of a data type can be present (e.g. a re-zonin
 application *
 - id *
 - short name *
-- abstract *
+- abstract
+- description *
 - link-back URL *
 - addresses * (at least one address or one geo object required)
 - - address *
