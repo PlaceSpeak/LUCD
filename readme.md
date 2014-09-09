@@ -16,13 +16,13 @@ Required fields are marked with an asterisk.
 
 In cases where multiple instances of a data type can be present (e.g. a re-zoning affecting more than one street address or a development application that has been assigned more than one status during its assessment) square brackets are used to indicate where the fields for that data type can be repeated.
 
-**LUCD example.json**
+**example.json**
 
-This is an example of 3 fictional re-zoning applications published using the LUCD schema in the **JSON** data format. *This file is not yet available, but should be soon*.
+This is an example of a re-zoning applications published using the LUCD schema in the **JSON** data format. *More applications illustrating additional formatting will be added*.
 
 **LUCD example.xml**
 
-This is an example of 3 fictional re-zoning applications published using the LUCD schema in the **XML** data format. *This file is not yet available, but should be soon*.
+This is an example of a re-zoning applications published using the LUCD schema in the **XML** data format. *More applications illustrating additional formatting will be added*.
 
 **readme.md**
 
