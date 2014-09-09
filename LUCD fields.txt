@@ -33,18 +33,20 @@ application *
 - - - city
 - - - province/state
 - - - postal/zip
-- municipal contact *
-- - name
-- - title
-- - email *
-- - phone
-- - address
-- - - street 1
-- - - street 2
-- - - street 3
-- - - city
-- - - province/state
-- - - postal/zip
+- municipal contacts * (at least one municipal contact required)
+- - municipal contact
+- - - municipal contactname
+- - - municipal contact title
+- - - municipal contact email *
+- - - municipal contact phone
+- - - municipal contact address
+- - - - street 1
+- - - - street 2
+- - - - street 3
+- - - - city
+- - - - province/state
+- - - - postal/zip
+- - [option additional municipal contacts]
 - statuses
 - - status *
 - - - status name *
