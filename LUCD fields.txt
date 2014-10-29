@@ -1,4 +1,4 @@
-Required fields are marked with an asterisk. 
+Required fields are marked with an asterisk.
 
 In cases where multiple instances of a data type can be present (e.g. a re-zoning affecting more than one street address or a development application that has been assigned more than one status during its assessment) square brackets are used to indicate where the fields for that data type can be repeated.
 
@@ -34,11 +34,11 @@ application *
 - - - postal/zip
 - municipal contacts * (at least one municipal contact required)
 - - municipal contact *
-- - - municipal contact name
-- - - municipal contact title
-- - - municipal contact email *
-- - - municipal contact phone
-- - - municipal contact address
+- - - name
+- - - title
+- - - email *
+- - - phone
+- - - address
 - - - - street 1
 - - - - street 2
 - - - - street 3
@@ -66,7 +66,7 @@ application *
 - - [optional additional public meetings]
 - documents
 - - document
-- - - document name
-- - - document abstract
-- - - document URL
+- - - name
+- - - abstract
+- - - URL
 - - [optional additional documents]
