@@ -1,4 +1,4 @@
-# The Land Use Change Data standard
+[# The Land Use Change Data standard
 
 The **LUCD standard** (optionally pronounced "lucid") is a proposed open standard for publishing municipal data related to land use change. The initially anticipated use cases are re-zoning applications and development permits.
 
@@ -16,11 +16,15 @@ Required fields are marked with an asterisk.
 
 In cases where multiple instances of a data type can be present (e.g. a re-zoning affecting more than one street address or a development application that has been assigned more than one status during its assessment) square brackets are used to indicate where the fields for that data type can be repeated.
 
+**LUCD fields description.md**
+
+This is a table providing descriptions of the fields in `LUCD fields.txt`.
+
 **example.json**
 
 This is an example of a re-zoning applications published using the LUCD schema in the **JSON** data format. *More applications illustrating additional formatting will be added*.
 
-**LUCD example.xml**
+**example.xml**
 
 This is an example of a re-zoning applications published using the LUCD schema in the **XML** data format. *More applications illustrating additional formatting will be added*.
 
