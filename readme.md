@@ -1,4 +1,4 @@
-[# The Land Use Change Data standard
+The Land Use Change Data standard
 
 The **LUCD standard** (optionally pronounced "lucid") is a proposed open standard for publishing municipal data related to land use change. The initially anticipated use cases are re-zoning applications and development permits.
 
