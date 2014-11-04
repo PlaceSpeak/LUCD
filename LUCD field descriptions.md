@@ -61,5 +61,4 @@ URL            | no         | no          | A link to the online component of th
 documents      | no         | no          | A container for information about the document or documents, in case there are multiple documents.
 document       | no         | yes         | A container for information about the document. At least two of name/abstract/URL should be provided.
 name           | no         | no          | The name of the document, e.g. "Streetscape Drawings".
-abstract       | no         | no          | A brief description of the nature of the document.
 URL            | no         | no          | A link a publicly-accessible online copy of the document. 
