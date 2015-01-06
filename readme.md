@@ -10,7 +10,7 @@ If you have opinions about the standard please [submit an issue](https://github.
 
 **LUCD fields.txt**
 
-This is a list of the required and optional fields for the LUCD standard. This schema is the core component of the standard. These fields can ultimately be published in a number of formats, including XML and JSON.
+This is a list of the required and optional fields for the LUCD standard. This schema is the core component of the standard. These fields can be published in a number of formats, including XML and JSON.
 
 Required fields are marked with an asterisk. 
 

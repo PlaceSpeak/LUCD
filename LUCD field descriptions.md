@@ -46,10 +46,10 @@ postal/zip     | yes        | no          | The postal code or zip code of the a
 statuses       | at least 1 | no          | A container for the application status or statuses, in case there are multiple statuses.
 status         | see above  | yes         | A container for information about the/a procedural status of the application.  
 status name    | yes        | no          | The status of the application, e.g. submitted, pending, re-submitted, approved, etc.
-status date    | yes        | no          | The date at which the application was assigned the above status.
+status date    | yes        | no          | The [date](http://en.wikipedia.org/wiki/ISO_8601) at which the application was assigned the above status.
 public meetings| no         | no          | A container for the public meeting or meetings, in case there are multiple meetings.
 public meeting | no         | yes         | Information about public meetings held by the municipality or proponent regarding the application, e.g. open houses and consultations.
-date           | no         | no          | The date the public was or will be held.
+date           | no         | no          | The [date](http://en.wikipedia.org/wiki/ISO_8601) the public was or will be held.
 location       | no         | no          | A container for address information about where the public meeting was or will be held, if applicable.
 street 1       | yes        | no          | The street address, or the first line of the address for multi-line addresses.
 street 2       | no         | no          | The second line of the address for multi-line addresses.
