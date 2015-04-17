@@ -1,11 +1,11 @@
-This document contains a field-by-field description of the data structure for the Land Use Change Data standard. The canoncial list of fields is in [LUCD fields.txt](LUCD fields.txt).
+This document contains a field-by-field description of the data structure for the Land Use Change Data standard. The canoncial list of fields is in [LUCD fields.txt](LUCD fields.txt), which also shows the hierarchical relationships among the fields described here.
 
 field          | required?  | repeatable? | description
 -------------- | ---------- | ----------- | -----------
-application    | yes        | no          | A container for the application information.
+application    | yes        | no          | A container for the fields associated with this application, as listed below.
 id             | yes        | no          | The unique ID used internally by the municipality to identify the application.
 short name     | yes        | no          | A short-form textual description of the application, preferably under 140 characters.
-description    | yes        | no          | A textual description of the application, potentially including lists and other formatting, with no lenght limit.
+description    | yes        | no          | A textual description of the application, potentially including lists and other formatting, with no length limit.
 link-back URL  | yes        | no          | A link to the municipality's record of the application on the municipal website (or just a link to the most relevant page on the municipal website, if no application-specific page is available).
 addresses      | at least 1 address or 1 geo | no | A container for the address or addresses, in case there are multiple addresses. The application should include at least one address **or** one geo object, i.e. if at least one address is provided a geo object is not required, and vice a versa.
 address        | see above  | yes         | A container for the address information.
