@@ -6,7 +6,7 @@ application    | yes        | no          | A container for the fields associate
 id             | yes        | no          | The unique ID used internally by the municipality to identify the application.
 short name     | yes        | no          | A short-form textual description of the application, preferably under 140 characters.
 description    | yes        | no          | A textual description of the application, potentially including lists and other formatting, with no length limit.
-link-back URL  | yes        | no          | A link to the municipality's record of the application on the municipal website (or just a link to the most relevant page on the municipal website, if no application-specific page is available).
+URL            | yes        | no          | A link to the municipality's record of the application on the municipal website (or just a link to the most relevant page on the municipal website, if no application-specific page is available).
 addresses      | at least 1 address or 1 geo | no | A container for the address or addresses, in case there are multiple addresses. The application should include at least one address **or** one geo object, i.e. if at least one address is provided a geo object is not required, and vice a versa.
 address        | see above  | yes         | A container for the address information.
 street 1       | yes        | no          | The street address, or the first line of the address for multi-line addresses.
@@ -44,7 +44,7 @@ city           | yes        | no          | The city of the address.
 province/state | yes        | no          | The province or state of the address.
 postal/zip     | yes        | no          | The postal code or zip code of the address.
 statuses       | at least 1 | no          | A container for the application status or statuses, in case there are multiple statuses.
-status         | see above  | yes         | A container for information about the/a procedural status of the application.  
+status         | see above  | yes         | A container for information about the/a procedural status of the application.
 status name    | yes        | no          | The status of the application, e.g. submitted, pending, re-submitted, approved, etc.
 status date    | yes        | no          | The [date](http://en.wikipedia.org/wiki/ISO_8601) at which the application was assigned the above status.
 public meetings| no         | no          | A container for the public meeting or meetings, in case there are multiple meetings.
