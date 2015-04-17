@@ -4,12 +4,14 @@ field          | required?  | repeatable? | description
 -------------- | ---------- | ----------- | -----------
 application    | yes        | no          | A container for the fields associated with this application, as listed below.
 id             | yes        | no          | The unique ID used internally by the municipality to identify the application.
+type           | no         | no          | The type of application, e.g. *re-zoning*, *development permit*, etc. If not included here the type should be clearly identified in the `short name`, `description`, or in the name of the file.
 short name     | yes        | no          | A short-form textual description of the application, preferably under 140 characters.
 description    | yes        | no          | A textual description of the application, potentially including lists and other formatting, with no length limit.
 URL            | yes        | no          | A link to the municipality's record of the application on the municipal website (or just a link to the most relevant page on the municipal website, if no application-specific page is available).
 associated applications | no| no          | A container for any associated applications. E.g., if the application is a re-zoning application and there are related development and heritage designation applications being submitted in parallel.
 associated application | yes| yes         | A container for the associated application information. Not required if there are no associated applications.
 id             | yes        | no          | The unique ID used internally by the municipality to identify the associated application. Not required if there is no associated application.
+type           | no         | no          | The type of the associated application, e.g. *re-zoning*, *development permit*, etc.
 URL            | no         | no          | A link to the municipality's record of the associated application on the municipal website.
 addresses      | at least 1 address or 1 geo | no | A container for the address or addresses, in case there are multiple addresses. The application should include at least one address **or** one geo object, i.e. if at least one address is provided a geo object is not required, and vice a versa.
 address        | see above  | yes         | A container for the address information.
@@ -64,5 +66,5 @@ description    | no         | no          | A description of the nature of the p
 URL            | no         | no          | A link to the online component of the public meeting, if applicable.
 documents      | no         | no          | A container for information about the document or documents, in case there are multiple documents.
 document       | no         | yes         | A container for information about the document. At least two of name/abstract/URL should be provided.
-name           | no         | no          | The name of the document, e.g. "Streetscape Drawings".
+name           | no         | no         | The name of the document, e.g. "Streetscape Drawings".
 URL            | no         | no          | A link a publicly-accessible online copy of the document. 
