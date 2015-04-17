@@ -7,6 +7,10 @@ id             | yes        | no          | The unique ID used internally by the
 short name     | yes        | no          | A short-form textual description of the application, preferably under 140 characters.
 description    | yes        | no          | A textual description of the application, potentially including lists and other formatting, with no length limit.
 URL            | yes        | no          | A link to the municipality's record of the application on the municipal website (or just a link to the most relevant page on the municipal website, if no application-specific page is available).
+associated applications | no| no          | A container for any associated applications. E.g., if the application is a re-zoning application and there are related development and heritage designation applications being submitted in parallel.
+associated application | yes| yes         | A container for the associated application information. Not required if there are no associated applications.
+id             | yes        | no          | The unique ID used internally by the municipality to identify the associated application. Not required if there is no associated application.
+URL            | no         | no          | A link to the municipality's record of the associated application on the municipal website.
 addresses      | at least 1 address or 1 geo | no | A container for the address or addresses, in case there are multiple addresses. The application should include at least one address **or** one geo object, i.e. if at least one address is provided a geo object is not required, and vice a versa.
 address        | see above  | yes         | A container for the address information.
 street 1       | yes        | no          | The street address, or the first line of the address for multi-line addresses.
