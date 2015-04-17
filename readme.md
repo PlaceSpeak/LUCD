@@ -20,11 +20,17 @@ This is a table providing descriptions of the fields in `LUCD fields.txt`.
 
 **example.json**
 
-This is an example of a re-zoning applications published using the LUCD schema in the **JSON** data format. *More applications illustrating additional formatting will be added*.
+This is an example of a re-zoning and development application published using the LUCD schema in the **JSON** data format.
 
 **example.xml**
 
-This is an example of a re-zoning applications published using the LUCD schema in the **XML** data format. *More applications illustrating additional formatting will be added*.
+This is an example of a re-zoning and development application published using the LUCD schema in the **XML** data format.
+
+**example.csv**
+
+This is an example of a re-zoning and development application published using the LUCD schema in the **Comma Separated Values** data format. Note that some fields in the data standard are optionally repeated, which can be difficult to encode in CSV format. One option for doing so is presented here.
+
+*More applications illustrating additional formatting will be added*.
 
 **readme.md**
 
