@@ -18,7 +18,7 @@ postal/zip     | yes        | no          | The postal code or zip code of the a
 geos           | at least 1 address or 1 geo | no | A container for the geo object or geo objects, in case there are multiple geo objects. The application should include at least one address **or** one geo object, i.e. if at least one address is provided a geo object is not required, and vice a versa.
 geo            | see above  | yes         | A container for the geo information.
 geo name       | no         | no          | A short-form description of the location represented by the geo object.
-geo object     | yes        | no          | An [OGC simple feature](http://www.opengeospatial.org/standards/sfa) object representing the location of the application, typically formatted as [Well Known Text](http://en.wikipedia.org/wiki/Well-known_text).
+geo object     | yes        | no          | An [OGC simple feature](http://www.opengeospatial.org/standards/sfa) object representing the location of the application, typically formatted as [Well Known Text](http://en.wikipedia.org/wiki/Well-known_text). Points, multi-points, polygons and multi-polygons are all acceptable.
 applicant      | no         | no          | A container for the applicant information.
 contact name   | no         | no          | The name of the primary contact person within the applying organization.
 organization   | no         | no          | The name of the organization applying for the permit.
