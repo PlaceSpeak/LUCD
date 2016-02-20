@@ -1,39 +1,34 @@
 # The Land Use Change Data standard
 
-**Current version: 0.2**
+## Current Version
+
+The current version is `0.9`.
+
+## Overview
 
 The **LUCD standard** (optionally pronounced "lucid") is a proposed open standard for publishing municipal data related to land use change. The initially anticipated use cases are re-zoning applications and development permits.
 
 If you have opinions about the standard please [submit an issue](https://github.com/PlaceSpeak/LUCD/issues) here, or get in touch at <hugh@placespeak.com>.
 
-## What's here
+The standard is organized into **core** and **optional** datasets.
 
-**LUCD fields.txt**
+The core **applications** dataset provides basic information about individual land use change applications.
 
-This is a list of the required and optional fields for the LUCD standard. This schema is the core component of the standard. These fields can be published in a number of formats, including XML and JSON.
+The optional **status change**, **public meetings** and **documents** datasets connect to the core applications dataset and provide supporting information about applications.
 
-Required fields are marked with an asterisk. 
+Within each of these datasets there are *required*, *recommended*, and *optional* fields:
 
-In cases where multiple instances of a data type can be present (e.g. a re-zoning affecting more than one street address or a development application that has been assigned more than one status during its assessment) square brackets are used to indicate where the fields for that data type can be repeated.
+* Required: Essential data field. The fields are absolutely necessary to have the basic level of data necessary to make this a useful dataset.
+* Recommended: These fields are highly recommended in order to make the data useful. If these data are available, then they should be submitted.
+* Optional: "Nice to have" fields. These fields also provide additional information, and if the data exists, they should be submitted.
 
-**LUCD fields description.md**
+This approach to data organization follows the [Building & Land Development Specification](http://permitdata.org/). Field naming conventions established in the BLDS have also been followed where appropriate.
 
-This is a table providing descriptions of the fields in `LUCD fields.txt`.
+## Requirements
 
-**example.json**
+The required fields for the data standard are described in the following documents, available in this code repository:
 
-This is an example of a re-zoning and development application published using the LUCD schema in the **JSON** data format.
-
-*More applications illustrating additional formatting will be added*.
-
-**example.xml**
-
-This is an example of a re-zoning and development application published using the LUCD schema in the **XML** data format.
-
-**example.csv**
-
-This is an example of a re-zoning and development application published using the LUCD schema in the **Comma Separated Values** data format. Note that some fields in the data standard are optionally repeated, which can be difficult to encode in CSV format. One option for doing so is presented here.
-
-**readme.md**
-
-This file.
+* [Core-applications-dataset-requirements.md](Core-applications-dataset-requirements.md)
+* [Optional-status-change-dataset-requirements.md](Optional-status-change-dataset-requirements.md)
+* [Optional-public-meeting-dataset-requirements.md](Optional-public-meeting-dataset-requirements.md)
+* [Optional-document-dataset-requirements.md](Optional-document-dataset-requirements.md)
