@@ -16,5 +16,6 @@ PublicMeetingAddress2  | TEXT         | The second line of the address for multi
 PublicMeetingCity      | TEXT         | The city of the address.
 PublicMeetingState     | TEXT         | The province or state of the address.
 PublicMeetingLink      | TEXT         | A link to the online component of the public meeting, if applicable.
-PublicMeetingStartTime | TEXT (HH:MM) | The start time of the public meeting. Use local time zone, or local time with [UTC offset](https://en.wikipedia.org/wiki/ISO_8601#Time_offsets_from_UTC) (hh:mmZ±hh:mm).
-PublicMeetingEndTime   | TEXT         | The end time of the public meeting.
+PublicMeetingStartTime | TEXT (HH:MM) | The start time of the public meeting. Use local time zone, or local time with [UTC offset](https://en.wikipedia.org/wiki/ISO_8601#Time_offsets_from_UTC) (hh:mm±hh:mm).
+PublicMeetingEndTime   | TEXT (HH:MM) | The end time of the public meeting. Use local time zone, or local time with [UTC offset](https://en.wikipedia.org/wiki/ISO_8601#Time_offsets_from_UTC) (hh:mm±hh:mm).
+
