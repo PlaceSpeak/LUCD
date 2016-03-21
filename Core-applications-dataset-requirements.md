@@ -1,7 +1,5 @@
 The following provides the [required](#required), [recommended](#recommended) and [optional](#optional) fields for the core applicaions dataset.
 
-# Core
-
 ### Required
 
 Field                      | DataType | Description
