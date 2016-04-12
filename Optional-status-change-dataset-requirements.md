@@ -14,7 +14,7 @@ StatusDate     | TEXT (YYYY-MM-DD) | Indicates the date at which this status was
 
 Field          | DataType | Description
 ---------------|----------|------------
-StatusMapped   | TEXT     | Status mapped to standardized values:  <ul><li>Application Accepted</li><li>Fees/Payment</li><li>In Review</li><li>Permit Issued</li><li>Inspection Phase</li><li>Permit Finaled</li><li>Permit Finaled with Conditions</li><li>Occupancy</li><li>Appeal</li><li>Permit Cancelled</li></ul>
+StatusMapped   | TEXT     | Status mapped to standardized values:  StatusCurrent mapped to standardized values: <ul><li>Proposed</li><li>Approved</li><li>Withdrawn</li><li>Comment Period Begun</li><li>Comment Period Ended</li><li>On Hold</li><li>Completed</li><li>Review</li><li>Council Review</li><li>Issue Unresolved</li><li>Notice of Public Hearing</li><li>Cancelled</li></ul>
 
 ### Optional
 
