@@ -1,4 +1,4 @@
-An optional application status change dataset is included in case there detailed information available regarding the lifecycle of the permit. Fields included in the core dataset indicate current status, this dataset can be linked to provide a historical record.
+An optional application status change dataset is included in case there is detailed information available regarding the lifecycle of the permit. Fields included in the core dataset indicate current status, this dataset can be linked to provide a historical record.
 
 [Required](#required), [recommended](#recommended) and [optional](#optional) fields are provided.
 
