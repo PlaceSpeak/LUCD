@@ -14,7 +14,7 @@ StatusDate     | TEXT (YYYY-MM-DD) | Indicates the date at which this status was
 
 Field          | DataType | Description
 ---------------|----------|------------
-StatusMapped   | TEXT     | Status mapped to standardized values:  StatusCurrent mapped to standardized values: <ul><li>Proposed</li><li>Approved</li><li>Withdrawn</li><li>Comment Period Begun</li><li>Comment Period Ended</li><li>On Hold</li><li>Completed</li><li>Review</li><li>Council Review</li><li>Issue Unresolved</li><li>Notice of Public Hearing</li><li>Cancelled</li></ul>
+StatusMapped   | TEXT     | StatusCurrent mapped to standardized values: <ul><li>Proposed</li><li>Approved</li><li>Withdrawn</li><li>Comment Period Begun</li><li>Comment Period Ended</li><li>On Hold</li><li>Completed</li><li>Review</li><li>Council Review</li><li>Issue Unresolved</li><li>Notice of Public Hearing</li><li>Cancelled</li></ul>
 
 ### Optional
 
