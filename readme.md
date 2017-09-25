@@ -8,7 +8,7 @@ The current version is `0.9`.
 
 The **LUCD standard** (optionally pronounced "lucid") is a proposed open standard for publishing municipal data related to land use change. The initially anticipated use cases are re-zoning applications and development permits.
 
-If you have opinions about the standard please [submit an issue](https://github.com/PlaceSpeak/LUCD/issues) here, or get in touch at <hugh@placespeak.com>.
+If you have opinions about the standard please [submit an issue](https://github.com/PlaceSpeak/LUCD/issues) here, or get in touch at <jason@placespeak.com>.
 
 The standard is organized into **core** and **optional** datasets.
 
